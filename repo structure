@@ -1,0 +1,10 @@
+DFIR-Autopsy-Wireshark/
+│
+├── README.md
+├── screenshots/
+│   ├── wireshark_http_get.png
+│   ├── wireshark_dns.png
+│   └── autopsy_web_history.png
+│
+├── findings.md
+└── workflow.md
