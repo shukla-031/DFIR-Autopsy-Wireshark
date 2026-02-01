@@ -1,0 +1,28 @@
+# Beginner DFIR Lab – Autopsy & Wireshark
+
+This repository documents a beginner-level Digital Forensics and Incident Response (DFIR) task
+performed to understand how network activity can be correlated with disk artifacts.
+
+## Tools Used
+- Wireshark
+- Autopsy
+
+## Task Overview
+- Analyzed an offline PCAP file in Wireshark
+- Identified suspicious DNS queries and HTTP GET requests
+- Detected a suspicious file download from a fake software website
+- Examined disk artifacts such as browser history and downloads using an Autopsy sample disk image
+- Understood the concept of network-to-disk evidence correlation
+
+## Key Learnings
+- Basics of network forensics using Wireshark
+- Understanding HTTP downloads and DNS resolution
+- Introduction to disk forensics using Autopsy
+- Importance of evidence correlation in DFIR investigations
+
+## Safety Note
+All analysis was performed using offline, publicly available practice datasets
+in a controlled lab environment. No live traffic or real user data was involved.
+
+## Author
+Akshaydeep Shukla
